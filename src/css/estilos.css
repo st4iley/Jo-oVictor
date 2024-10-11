@@ -1,0 +1,64 @@
+body{
+
+    background-image: url("../imagems/depositphotos_71640475-stock-photo-blue-earth-seen-from-the.png");
+    background-size: cover;
+    
+    
+    }
+
+.Joao1{
+   display: flex;
+   align-items: center;
+    justify-items: center;
+    position: absolute;
+    top: 10%;
+    transform: translateX(280%);
+    
+
+
+
+}
+.Joao2{
+   
+  background-color: antiquewhite;
+  max-width: 13%;
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+  position: absolute;
+  transform: translateX(340%);
+  
+
+
+
+}
+.Joao3{
+   
+    background-color: antiquewhite;
+    max-width: 15%;
+    font-family: sans-serif;
+    font-style: italic;
+    position: absolute;
+    top: 70%;
+    transform: translateX(280%);
+    
+  
+  
+  
+  }
+ .Boi{
+
+    position: absolute;
+     top: 15%;
+     transform: translateX(260%);
+
+ }
+ .danca{
+
+
+
+    top: 70%;
+    transform: translateX(280%);
+    
+  
+ }
